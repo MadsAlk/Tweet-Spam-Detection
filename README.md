@@ -16,7 +16,7 @@
 
 
 <div style="display: flex;">
-  <img src="screenshots/features.PNG" alt="Login" width="200" style="margin-right: 10px;">
-  <img src="screenshots/matrix.PNG" alt="MAP" width="200" style="margin-right: 10px;">
+  <img src="screenshots/features.PNG" alt="Login" width="500" style="margin-right: 10px;">
+  <img src="screenshots/matrix.PNG" alt="MAP" width="300" style="margin-right: 10px;">
 
 </div>
